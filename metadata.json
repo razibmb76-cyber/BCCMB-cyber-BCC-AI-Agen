@@ -1,0 +1,6 @@
+{
+  "name": "BCC AI Agent",
+  "description": "মাল্টি-মডেল বাংলা AI সহকারী — কোড, ইমেজ, ভিডিও স্টোরিবোর্ড, স্ক্রিন বিশ্লেষণ ও কম্পিউটার কন্ট্রোল।",
+  "requestFramePermissions": ["display-capture", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
